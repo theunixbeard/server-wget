@@ -1,0 +1,5 @@
+# Cookies for domains related to mediafire.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://www.mediafire.com/download/g11kpwalbnt4qs3/blz--psxbios.zip
+#
+
